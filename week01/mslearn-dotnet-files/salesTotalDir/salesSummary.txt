@@ -1,0 +1,14 @@
+Sales Summary
+----------------------------
+Total Sales: $2,012.20
+
+Details:
+  stores\sales: $88.88
+  201\sales: $501.22
+  201\salestotals: $0.00
+  202\sales: $1,234.22
+  202\salestotals: $0.00
+  203\sales: $99.00
+  203\salestotals: $0.00
+  204\sales: $88.88
+  204\salestotals: $0.00
