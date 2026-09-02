@@ -1,0 +1,76 @@
+- Evidence from the end of the module Create a web API with ASP.NET Core controllers showing the existing content, and your additional record.
+
+I added the Neapolitan pizza (Check out line 15 of /ContosoPizza/Services/PizzaService.cs file):
+
+Pizzas = new List<Pizza>
+{
+    new Pizza { Id = 1, Name = "Classic Italian", IsGlutenFree = false },
+    new Pizza { Id = 2, Name = "Veggie", IsGlutenFree = true },
+    new Pizza { Id = 3, Name = "Neapolitan", IsGlutenFree = false } // Record added
+};
+
+---
+
+HTTP/1.1 200 OK
+Connection: close
+Content-Type: application/json; charset=utf-8
+Date: Wed, 02 Sep 2026 23:12:43 GMT
+Server: Kestrel
+Transfer-Encoding: chunked
+
+[
+  {
+    "id": 1,
+    "name": "Classic Italian",
+    "isGlutenFree": false
+  },
+  {
+    "id": 2,
+    "name": "Veggie",
+    "isGlutenFree": true
+  },
+  {
+    "id": 3,
+    "name": "Neapolitan",
+    "isGlutenFree": false
+  }
+]
+
+
+
+--------------------------------
+
+
+
+- A text copy of your working sales summary function for Part 2.
+
+static void createSalesSummary(string salesTotalDir, double salesTotal, IEnumerable<string> salesFiles)
+{
+    // Create Sales Summary file
+    File.WriteAllText(Path.Combine(salesTotalDir, "salesSummary.txt"), String.Empty);
+
+    // Add content to file
+    File.AppendAllText(Path.Combine(salesTotalDir, "salesSummary.txt"), $"Sales Summary{Environment.NewLine}");
+    File.AppendAllText(Path.Combine(salesTotalDir, "salesSummary.txt"), $"----------------------------{Environment.NewLine}");
+    File.AppendAllText(Path.Combine(salesTotalDir, "salesSummary.txt"), $"Total Sales: {salesTotal:C2}{Environment.NewLine}");
+    File.AppendAllText(Path.Combine(salesTotalDir, "salesSummary.txt"), Environment.NewLine);
+    File.AppendAllText(Path.Combine(salesTotalDir, "salesSummary.txt"), $"Details:{Environment.NewLine}");
+
+    // Add details summary
+    foreach (var file in salesFiles)
+    {  
+        // Get file and folder names
+        string folderName = Path.GetFileName(Path.GetDirectoryName(file)) ?? string.Empty;
+        string fileName = Path.GetFileNameWithoutExtension(file);
+        string folderAndFileName = Path.Combine(folderName, fileName);
+
+        // Read the contents of the file
+        string salesJson = File.ReadAllText(file);
+
+        // Parse the contents as JSON
+        SalesData? data = JsonConvert.DeserializeObject<SalesData?>(salesJson);
+
+        // Add filename and data to .txt file
+        File.AppendAllText(Path.Combine(salesTotalDir, "salesSummary.txt"), $"  {folderAndFileName}: {data?.Total:C2}{Environment.NewLine}");
+    }
+}

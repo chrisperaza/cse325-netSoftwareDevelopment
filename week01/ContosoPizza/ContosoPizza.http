@@ -19,16 +19,6 @@ POST {{ContosoPizza_HostAddress}}/pizza/
 Content-Type: application/json
 
 {
-    "name": "Neapolitan",
-    "isGlutenFree": false
-}
-
-###
-
-POST {{ContosoPizza_HostAddress}}/pizza/
-Content-Type: application/json
-
-{
     "name": "Hawaii",
     "isGlutenFree": false
 }
