@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj": {}
+    "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj": {
+    "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj",
+        "projectUniqueName": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj",
         "projectName": "DotNetDependencies",
-        "projectPath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj",
+        "projectPath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj",
         "packagesPath": "C:\\Users\\Christian Peraza\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\obj\\",
+        "outputPath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christian Peraza\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\DotNetDebugging.csproj": {}
+    "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\DotNetDebugging.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\DotNetDebugging.csproj": {
+    "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\DotNetDebugging.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\DotNetDebugging.csproj",
+        "projectUniqueName": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\DotNetDebugging.csproj",
         "projectName": "DotNetDebugging",
-        "projectPath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\DotNetDebugging.csproj",
+        "projectPath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\DotNetDebugging.csproj",
         "packagesPath": "C:\\Users\\Christian Peraza\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\obj\\",
+        "outputPath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDebugging\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christian Peraza\\AppData\\Roaming\\NuGet\\NuGet.Config"

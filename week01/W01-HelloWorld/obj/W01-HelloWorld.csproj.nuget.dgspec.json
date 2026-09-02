@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\W01-HelloWorld.csproj": {}
+    "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\W01-HelloWorld.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\W01-HelloWorld.csproj": {
+    "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\W01-HelloWorld.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\W01-HelloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\W01-HelloWorld.csproj",
         "projectName": "W01-HelloWorld",
-        "projectPath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\W01-HelloWorld.csproj",
+        "projectPath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\W01-HelloWorld.csproj",
         "packagesPath": "C:\\Users\\Christian Peraza\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\obj\\",
+        "outputPath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\W01-HelloWorld\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christian Peraza\\AppData\\Roaming\\NuGet\\NuGet.Config"

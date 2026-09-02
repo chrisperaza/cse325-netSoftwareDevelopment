@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2SeJWAV82M8=",
+  "dgSpecHash": "ed/dEbs4ZLE=",
   "success": true,
-  "projectFilePath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj",
+  "projectFilePath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week01\\DotNetDependencies\\DotNetDependencies.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Christian Peraza\\.nuget\\packages\\humanizer\\2.7.9\\humanizer.2.7.9.nupkg.sha512",
     "C:\\Users\\Christian Peraza\\.nuget\\packages\\humanizer.core\\2.7.9\\humanizer.core.2.7.9.nupkg.sha512",
