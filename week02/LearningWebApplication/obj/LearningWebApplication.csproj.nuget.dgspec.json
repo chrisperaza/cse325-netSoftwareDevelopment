@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\LearningWebApplication.csproj": {}
+    "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\LearningWebApplication.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\LearningWebApplication.csproj": {
+    "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\LearningWebApplication.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\LearningWebApplication.csproj",
+        "projectUniqueName": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\LearningWebApplication.csproj",
         "projectName": "LearningWebApplication",
-        "projectPath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\LearningWebApplication.csproj",
+        "projectPath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\LearningWebApplication.csproj",
         "packagesPath": "C:\\Users\\Christian Peraza\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\obj\\",
+        "outputPath": "C:\\Users\\Christian Peraza\\Documents\\christian_peraza\\estudios\\byu\\2026_block_5\\cse325_netSoftwareDevelopment\\week02\\LearningWebApplication\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Christian Peraza\\AppData\\Roaming\\NuGet\\NuGet.Config"
