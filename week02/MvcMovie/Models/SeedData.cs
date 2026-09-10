@@ -51,6 +51,30 @@ public static class SeedData
                     Genre = "Western",
                     Rating = "R",
                     Price = 3.99M
+                },
+                new Movie
+                {
+                    Title = "Harry Potter and the Goblet of Fire",
+                    ReleaseDate = DateTime.Parse("2005-11-06"),
+                    Genre = "Fantasy",
+                    Rating = "R",
+                    Price = 7.99M
+                },
+                new Movie
+                {
+                    Title = "Spider-Man 2",
+                    ReleaseDate = DateTime.Parse("2004-6-25"),
+                    Genre = "Superhero",
+                    Rating = "R",
+                    Price = 6.99M
+                },
+                new Movie
+                {
+                    Title = "My Neighbor Totoro",
+                    ReleaseDate = DateTime.Parse("1988-4-16"),
+                    Genre = "Anime",
+                    Rating = "R",
+                    Price = 8.99M
                 }
             );
             context.SaveChanges();
